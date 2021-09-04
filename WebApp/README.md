@@ -4,8 +4,8 @@
 
 #### Get the code
 ```
-$ git clone https://github.com/Zahid8/AMU_battlegrounds.git
-$ cd AMU_battlegrounds
+$ git clone https://github.com/Ifrahaha/HACKJNU-2.0.git
+$ cd HACKJNU-2.0
 $ cd WebApp
 ```
 ##### Download the saved model from [here](https://drive.google.com/file/d/1acUbGujL9pzZrfHb8PzuLQH0H7BY4E28/view?usp=sharing) and paste it into the same directory as the cloned git repository.
