@@ -5,8 +5,8 @@
 
 
 #### Team name : Protocol4
-#### Team leader’s name : Zahid Hussain
-#### Team members’ names : ● Ifrah Andleeb  ● Dhruv Garg
+#### Team leader’s name : Ifrah Andleeb
+#### Team members’ names : ● Zahid Hussain 
 
 
 ### Idea:
